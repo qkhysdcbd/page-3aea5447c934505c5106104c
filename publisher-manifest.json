@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5b387940b77257451b23c89a",
+  "owner": "qkhysdcbd",
+  "repo": "page-3aea5447c934505c5106104c",
+  "title": "只因云(spkun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3aea5447c934505c5106104c",
+      "a": "只因云(spkun)",
+      "b": "",
+      "entity": "只因云(spkun)",
+      "brand": "只因云(spkun)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c7afb7647d56a45f1e7225c480bc969aa72c9c57434239669c4e9218b46cf78f",
+      "content": {
+        "keyword1": "只因云(spkun)",
+        "keyword2": "",
+        "primary_entity": "只因云(spkun)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "只因云(spkun)为您提供稳定可靠的网络连接与流量管理解决方案，多设备协同与专线节点，满足不同场景下的数据传输需求。",
+          "AI_DESCRIPTION": "只因云(spkun)为您提供稳定可靠的网络连接与流量管理解决方案，多设备协同与专线节点，满足不同场景下的数据传输需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f7f5ee;--panel-bg: #fffdf5;--text-main: #14281d;--text-muted: #495e53;--accent: #2e5a40;--accent-light: #e2ede5;--border-color: #d1d8cc;--radius: 16px;--font-main: system-ui, -apple-system, \"Segoe UI\", Roboto, sans-serif}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: var(--font-main);line-height: 1.6;padding: 24px}\n.container {max-width: 1200px;margin: 0 auto}\nheader {margin-bottom: 40px;display: flex;flex-direction: column;gap: 12px}\n.breadcrumb {font-size: 0.9rem;color: var(--text-muted)}\n.breadcrumb a {color: var(--accent);text-decoration: none}\n.catalog-nav {display: flex;gap: 16px;flex-wrap: wrap;font-size: 0.95rem;font-weight: 500}\n.catalog-nav a {color: var(--text-main);text-decoration: none;background: var(--panel-bg);padding: 6px 12px;border-radius: 8px;border: 1px solid var(--border-color)}\n.catalog-nav a:hover {background: var(--accent-light)}\n\nmain {display: flex;flex-direction: column;gap: 60px}\n\n.hero {display: grid;grid-template-columns: 1.2fr 1fr;gap: 40px;align-items: center;background: var(--panel-bg);border: 1px solid var(--border-color);border-radius: var(--radius);padding: 48px}\n@media(max-width: 768px) {\n  .hero {grid-template-columns: 1fr;padding: 24px}\n}\n.hero-content {display: flex;flex-direction: column;gap: 20px}\nh1 {font-size: 2.8rem;color: var(--accent);line-height: 1.2}\n.hero-subtitle {font-size: 1.1rem;color: var(--text-muted)}\n.hero-panel {background: var(--accent-light);border-radius: var(--radius);padding: 32px;display: flex;flex-direction: column;gap: 16px;border: 1px solid var(--border-color)}\n.hero-panel h3 {color: var(--accent);font-size: 1.3rem}\n.hero-panel ul {list-style: none;display: flex;flex-direction: column;gap: 10px}\n.hero-panel li {font-size: 0.95srem;color: var(--text-muted);display: flex;align-items: center;gap: 8px}\n.hero-panel li::before {content: \"•\";color: var(--accent);font-weight: bold}\n\nsection {display: flex;flex-direction: column;gap: 24px}\nh2 {font-size: 2rem;color: var(--accent);border-bottom: 2px solid var(--border-color);padding-bottom: 8px}\n\n.plans-grid {display: grid;grid-template-columns: repeat(2, 1fr);gap: 24px}\n@media(max-width: 768px) {\n  .plans-grid {grid-template-columns: 1fr}\n}\n.plan-card {position: relative;background: var(--panel-bg);border: 1px solid var(--border-color);border-radius: var(--radius);padding: 32px;display: flex;flex-direction: column;justify-content: space-between;overflow: hidden}\n.plan-card.featured {border: 2px solid var(--accent);background: #fff}\n.card-number {position: absolute;right: 16px;bottom: 0px;font-size: 6rem;font-weight: 900;color: var(--accent-light);z-index: 0;pointer-events: none;line-height: 1}\n.plan-content {position: relative;z-index: 1;display: flex;flex-direction: column;gap: 16px}\n.plan-title {font-size: 1.5rem;color: var(--accent);font-weight: 700}\n.plan-price {font-size: 1.8rem;font-weight: 800;color: var(--text-main)}\n.plan-annual {font-size: 0.9rem;color: var(--text-muted)}\n.plan-features {list-style: none;display: flex;flex-direction: column;gap: 8px;margin-top: 16px}\n.plan-features li {font-size: 0.95rem;color: var(--text-muted)}\n.badge {background: var(--accent);color: #fff;padding: 4px 12px;border-radius: 20px;font-size: 0.8rem;align-self: flex-start;font-weight: 600}\n\n.guide-steps {display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px}\n@media(max-width: 768px) {\n  .guide-steps {grid-template-columns: 1fr}\n}\n.step-card {position: relative;background: var(--panel-bg);border: 1px solid var(--border-color);border-radius: var(--radius);padding: 24px;overflow: hidden;display: flex;flex-direction: column;gap: 12px}\n.step-card .card-number {font-size: 5rem}\n.step-card h3 {position: relative;z-index: 1;color: var(--accent);font-size: 1.2rem}\n.step-card p {position: relative;z-index: 1;color: var(--text-muted);font-size: 0.95rem}\n\n.faq-container {display: flex;flex-direction: column;gap: 16px}\n.faq-bubble {background: var(--panel-bg);border: 1px solid var(--border-color);border-radius: var(--radius);padding: 20px 24px;display: flex;flex-direction: column;gap: 8px}\n.faq-q {font-weight: 700;color: var(--accent);font-size: 1.05rem;display: flex;gap: 8px}\n.faq-q::before {content: \"问：\"}\n.faq-a {color: var(--text-muted);font-size: 0.95rem;padding-left: 24px}\n\nfooter {margin-top: 60px;border-top: 1px solid var(--border-color);padding-top: 24px;text-align: center;color: var(--text-muted);font-size: 0.9rem}\n</style><div class=\"container\">\n  <header>\n    <div class=\"breadcrumb\">\n      <a href=\"#\">首页</a> &gt; <span>只因云(spkun) 服务面板</span>\n    </div>\n    <nav class=\"catalog-nav\">\n      <a href=\"#plans\">套餐方案</a>\n      <a href=\"#guide\">使用引导</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </header>\n\n  <main>\n    <div class=\"hero\">\n      <div class=\"hero-content\">\n        <h1>只因云(spkun) · 只因云 (spkun)</h1>\n        <p class=\"hero-subtitle\">我们提供稳定顺畅的网络连接及流量管理方案。无论您是日常浏览、流媒体娱乐还是多设备协同办公，只因云都能为您带来高效、安全的数字化体验。</p>\n      </div>\n      <div class=\"hero-panel\">\n        <h3>核心特性索引</h3>\n        <ul>\n          <li>多阶梯流量包，按需自由选择</li>\n          <li>专线节点优化，降低延迟波动</li>\n          <li>多平台客户端兼容，一键连接</li>\n          <li>7x24 专属工单与技术支持</li>\n        </ul>\n      </div>\n    </div>\n\n    <section id=\"plans\">\n      <h2>套餐方案</h2>\n      <div class=\"plans-grid\">\n        <div class=\"plan-card\">\n          <div class=\"card-number\">01</div>\n          <div class=\"plan-content\">\n            <div class=\"plan-title\">基础版</div>\n            <div class=\"plan-price\">¥15/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n            <ul class=\"plan-features\">\n              <li>每月 100GB 极速流量</li>\n              <li>支持 3 台设备同时在线</li>\n              <li>解锁基础流媒体</li>\n              <li>普通线路节点池</li>\n            </ul>\n          </div>\n        </div>\n\n        <div class=\"plan-card featured\">\n          <div class=\"card-number\">02</div>\n          <div class=\"plan-content\">\n            <span class=\"badge\">推荐选择</span>\n            <div class=\"plan-title\">旗舰版</div>\n            <div class=\"plan-price\">¥35/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n            <ul class=\"plan-features\">\n              <li>每月 300GB 极速流量</li>\n              <li>支持 5 台设备同时在线</li>\n              <li>全节点原生流媒体解锁</li>\n              <li>IPLC 专线游戏加速优化</li>\n              <li>7x24 优先工单支持</li>\n            </ul>\n          </div>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"guide\">\n      <h2>使用引导</h2>\n      <div class=\"guide-steps\">\n        <div class=\"step-card\">\n          <div class=\"card-number\">1</div>\n          <h3>注册与选购</h3>\n          <p>访问只因云(spkun)官方网站注册账号，根据您的日常流量需求与设备数量，挑选最适合您的套餐方案并完成订阅。</p>\n        </div>\n        <div class=\"step-card\">\n          <div class=\"card-number\">2</div>\n          <h3>获取配置</h3>\n          <p>在用户后台查看专属的订阅链接或配置文件，系统支持主流客户端的一键导入，免去繁琐的手动参数配置。</p>\n        </div>\n        <div class=\"step-card\">\n          <div class=\"card-number\">3</div>\n          <h3>连接使用</h3>\n          <p>在您的电脑、手机或平板设备上打开对应客户端，导入配置并启用连接，即可开始享受高品质的网络服务。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <h2>常见问题</h2>\n      <div class=\"faq-container\">\n        <div class=\"faq-bubble\">\n          <div class=\"faq-q\">新手应该如何开始使用只因云(spkun)？</div>\n          <div class=\"faq-a\">答：您只需先注册账号并购买心仪的套餐，随后在后台获取订阅链接，并在客户端中导入即可轻松连接。</div>\n        </div>\n        <div class=\"faq-bubble\">\n          <div class=\"faq-q\">套餐流量是每月定期重置吗？</div>\n          <div class=\"faq-a\">答：是的，所有常规套餐的流量均在每个计费周期的对应日期自动重置，未用完的流量不累计到下一个周期。</div>\n        </div>\n        <div class=\"faq-bubble\">\n          <div class=\"faq-q\">支持在多少台设备上同时使用？</div>\n          <div class=\"faq-a\">答：具体设备数量取决于您所购买的套餐级别。例如基础版支持 3 台设备，旗舰版支持 5 台设备同时在线。</div>\n        </div>\n        <div class=\"faq-bubble\">\n          <div class=\"faq-q\">遇到网络连接异常时该怎么处理？</div>\n          <div class=\"faq-a\">答：您可以首先尝试更新订阅或切换其他线路节点。如仍未解决，可通过后台提交工单，我们将有技术人员协助您排查。</div>\n        </div>\n      </div>\n    </section>\n  </main>\n\n  <footer>\n    <p>© 只因云(spkun) 保留所有权利。本页面内容仅供服务说明使用。</p>\n  </footer>\n</div>",
+          "hash": "779af09dd3b8b5b648b14053457984d9f01e4f550fc48192a7c34a42fc99757d",
+          "seo": {
+            "title": "只因云(spkun) - 现代网络连接与流量管理服务",
+            "keywords": "只因云, spkun, 网络加速, 专线连接, 流量管理, 客户端下载",
+            "description": "只因云(spkun)为您提供稳定可靠的网络连接与流量管理解决方案，多设备协同与专线节点，满足不同场景下的数据传输需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7144",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xmcfm.cn",
+    "host": "p-3d16ff1f3f.xmcfm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4697813c8ae1dada2fba4e17a030b16390bb39ea66255321a6333736b58f1c88",
+    "sitemap.xml": "e2149cf398f2d9d2534b6336682fc9273e1e0544f024d8bd6046f84dd27fe432",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5ff36c0dfe80db22982eb4e41b56cf38006af07b54404f78ed6e01db92b42964",
+    "robots.txt": "a818c0b71daf5a55d237e0705f16117113d292116be137a354590b9e17c1fdd6",
+    "f8c3d1a82ed149caf5d279c4eaf20dfc.txt": "83ea10bb84c2e67783d18a39ea62a610a03c7a8307d51af92a049e60b08834de"
+  },
+  "revision": "0cf2fd47c85373e75b7092adfa24613f4378af107c9db99a1939523480cbfc45"
+}
